@@ -49,6 +49,7 @@ const Hero = () => {
             <span className="bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
               MERN Stack Developer
             </span>
+            
           </motion.h1>
 
           <motion.p
@@ -110,7 +111,7 @@ const Hero = () => {
               <FaEnvelope />
             </a>
             <a
-              href="/Resume__uthara__udayan_ (1).pdf"
+              href="\Resume__uthara__udayan_ (3).pdf"
               download
               className="text-2xl text-gray-400 hover:text-indigo-400 transition-colors transform hover:scale-125"
             >

@@ -51,7 +51,7 @@ const About = () => {
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
           >
-            <h3 className="text-3xl font-bold mb-6 text-indigo-400">Hello, I'm a MERN Stack Developer</h3>
+            <h3 className="text-3xl font-bold mb-6 text-indigo-400">Hello, I'm  UTHARA UDAYAN a MERN Stack Developer</h3>
             <p className="text-gray-300 mb-4 leading-relaxed">
               I'm a passionate full-stack developer specializing in the MERN (MongoDB, Express, React, Node.js) stack.
               With a strong foundation in both frontend and backend technologies, I create scalable, efficient, and

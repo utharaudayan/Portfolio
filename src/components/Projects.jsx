@@ -33,11 +33,11 @@ const Projects = () => {
         "/public/OIP.jpg",
     },
     {
-      title: "MyRecipe – Personalized Recipe Manager",
+      title: "ChatSphere – MERN Stack Chatbot",
       description:
-        "MyRecipe is a React-based recipe manager that lets users add, edit, and organize recipes. It features a clean card layout, and responsive design for easy cooking inspiration.",
-      technologies: ["React", "Node.js", "MongoDB", "Express"],
-      github: "https://github.com/utharaudayan/Recipe-App",
+        "ChatSphere is a responsive chatbot built with React and Node.js, designed for real-time Q&A. It features a WhatsApp-style interface with user and bot message bubbles. The bot retrieves structured answers from a MongoDB-powered knowledge base via backend APIs.",
+      technologies: ["React", "MongoDB", "Express"],
+      github: "https://github.com/utharaudayan/MyBot",
       // demo: "https://demo.com",
       image:
         "/public/OIP1.webp",
